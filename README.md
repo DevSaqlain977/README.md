@@ -1,7 +1,7 @@
 # 👋 Assalamualaikum, I'm Saqlain Aslam!
 
 💻 Front-End & WordPress Developer from Pakistan 🇵🇰  
-🔧 Skills: HTML, CSS, JavaScript, PHP, MySQL, WordPress  
+🔧 Skills: HTML, CSS, JavaScript, PHP, MySQL  
 📚 Learning JavaScript & Data Science  
 🌐 Passion: Landing Pages, Optimized Designs, Client Work  
 🎯 Goal: Become a Full Stack Developer
